@@ -28,6 +28,6 @@ Our app does not use any third-party services or SDKs that may collect user data
 
 ## Contact Us
 
-If you have any questions or concerns about our privacy policy, please contact us at [minifinderapp@outlook.com].
+If you have any questions or concerns about our privacy policy, please contact us at minifinderapp@outlook.com.
 
-This privacy policy is effective as of [January 1st 2024].
+This privacy policy is effective as of January 1st 2024.
